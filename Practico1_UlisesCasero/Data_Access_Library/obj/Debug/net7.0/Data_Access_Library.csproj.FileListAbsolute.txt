@@ -1,0 +1,15 @@
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\bin\Debug\net7.0\Data_Access_Library.deps.json
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\bin\Debug\net7.0\Data_Access_Library.dll
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\bin\Debug\net7.0\Data_Access_Library.pdb
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\bin\Debug\net7.0\Shared.dll
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\bin\Debug\net7.0\Shared.pdb
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.csproj.AssemblyReference.cache
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.AssemblyInfoInputs.cache
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.AssemblyInfo.cs
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.csproj.CoreCompileInputs.cache
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.csproj.CopyComplete
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.dll
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\refint\Data_Access_Library.dll
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\Data_Access_Library.pdb
+C:\Users\ulise\OneDrive\Escritorio\UTEC\.NET\Practico1\Practico1_UlisesCasero\Data_Access_Library\obj\Debug\net7.0\ref\Data_Access_Library.dll
